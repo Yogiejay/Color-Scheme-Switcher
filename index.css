@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+.buttons {
+    text-align: center;
+    /* padding-left: 4cm;
+    padding-right: 4cm; */
+    list-style: none;
+}
+
+button {
+    height: 4cm;
+    width: 4cm;
+}
+
+#red {
+    background-color: red;
+}
+
+#grey {
+    background-color: grey;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#orange {
+    background-color: orange;
+}
